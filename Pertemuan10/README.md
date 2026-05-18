@@ -1,4 +1,4 @@
-# Laporan Praktikum 09: Kamera
+# Laporan Praktikum 10: Dasar State Management
 
 Nama: Triskalimatu Sya'adah
 
